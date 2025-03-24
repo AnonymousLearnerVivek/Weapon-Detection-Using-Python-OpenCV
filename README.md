@@ -33,7 +33,7 @@ This project implements a weapon detection system using Python and OpenCV. The s
 1) Clone this repository:
 
 ```
-git clone https://github.com/your-username/weapon-detection-opencv.git
+git clone https://github.com/AnonymousLearnerVivek/Weapon-Detection-Using-Python-OpenCV.git
 cd weapon-detection-opencv
 ```
 2) Install dependencies:
